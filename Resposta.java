@@ -1,9 +1,5 @@
 import java.io.Serializable;
 
-/**
- *
- * @author Kakugawa
- */
 public class Resposta implements Serializable{
     private String mensagem;
     private boolean flag;
